@@ -4,11 +4,8 @@ Para essa tarefa, são usadas informações de preço da energia no mercado de c
 
 # Interface do DashBoard
 ## Modo Claro
-![img_1](https://github.com/user-attachments/assets/070d9ebc-bbbe-4145-a2f6-b965ccb495eb)
-
-![img_2](https://github.com/user-attachments/assets/7948d521-37e7-49bf-865e-d06c6b65f4de)
-
+![img1](https://github.com/user-attachments/assets/6cb94262-9fa4-4a60-9d1b-ed65f8a277f4) <br>
+![img2](https://github.com/user-attachments/assets/1b98a794-677a-486b-99a4-0e89eca41f6b)
 ## Modo Escuro
-![img_3](https://github.com/user-attachments/assets/9cb0bdbb-08c9-47e6-b893-e8bc6d91447d)
-
-![img_4](https://github.com/user-attachments/assets/ade4e083-cfe5-4341-af94-9617ea9d172d)
+![img3](https://github.com/user-attachments/assets/ff6f41d8-3675-47fa-8a1a-54aab7261734) <br>
+![img4](https://github.com/user-attachments/assets/f1717423-b419-4f90-a627-aab444b220e1)
