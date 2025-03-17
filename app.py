@@ -78,7 +78,7 @@ energy_total = [sum(x) for x in zip(*energy_unit)]
 
 operation_list = [eval(sublista) for sublista in operation["i_q"].to_list()]
 
-pld = data["affluence"].tolist()
+pld = data["pld"].tolist()
 profit_spot = [(energy_total[t] - M_acl) * pld[t] for t in range(steps)]
 profit_acl = np.full(steps, M_acl * P_acl)
 df_new = pd.DataFrame(list(zip(pld, profit_spot, profit_acl)), columns=['pld', 'profit_spot', 'profit_acl'])
