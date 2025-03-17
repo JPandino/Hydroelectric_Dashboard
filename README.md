@@ -1,5 +1,5 @@
 # Hydroelectric Dashboard
-Este repositório contém um dashboard interativo para análise de dados operacionais durante uma 1 semana (168 hr) de uma usina hidrelétrica. O objetivo é criar uma ferramenta para visualização de dados a partir de gráficos interativos que mostram a geração de energia, receitas, custos, consumo de água e outros indicadores chave, além de fornecer insights sobre o desempenho operacional da usina.
+Este repositório contém um dashboard interativo para análise de dados operacionais durante uma 1 semana (168 hr) de uma usina hidrelétrica. O objetivo é criar uma ferramenta para visualização de dados a partir de gráficos interativos que mostram a geração de energia, receitas, custos, consumo de água e outros indicadores chave, além de fornecer insights sobre o desempenho operacional da usina.<br>
 Para essa tarefa, são usadas informações de preço da energia no mercado de curto prazo (PLD), informações técnicas da usina e dados de 1 semana operativa.
 
 # Interface do DashBoard
